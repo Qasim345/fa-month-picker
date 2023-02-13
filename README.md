@@ -13,16 +13,16 @@ https://qasim345.github.io/fa-month-picker
 ```
 ### Examples:
 ```html
-<!-- Ex-1 -->
+<!-- Ex-1 Dari-->
 <select data-toggle="month" data-lang="af" show-selected="true"></select>
 
-<!-- Ex-2 -->
+<!-- Ex-2 Persian-->
 <select data-toggle="month" data-lang="fa"></select>
 
-<!-- Ex-3 -->
+<!-- Ex-3 English-->
 <select data-toggle="month" data-lang="en"></select>
 
-<!-- Ex-3 -->
+<!-- Ex-4 Pashto-->
 <select data-toggle="month" data-lang="ps"></select>
 ```
 
