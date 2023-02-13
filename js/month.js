@@ -69,7 +69,11 @@ _el.forEach(_elm => {
   var _sel = "انتخاب"
   if (_elm.getAttribute("data-lang") == "ir") {
     _selectedLang = _irMonth;
-  } else if (_elm.getAttribute("data-lang") == "en") {
+  }
+  else if(_elm.getAttribute("data-lang")== "ps"){
+    _selectedLang = _psMonth;
+  }
+  else if (_elm.getAttribute("data-lang") == "en") {
     _selectedLang = _enMonth;
     _sel = "Select";
     _elm.style.direction = "ltr";
