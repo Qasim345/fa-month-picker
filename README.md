@@ -1,5 +1,5 @@
 # fa-month-picker
-#### a mini javascript plugin for picking month in 3 way!
+#### a mini javascript plugin for picking month in defrient way!
 ## Demo:
 https://qasim345.github.io/fa-month-picker
 ## Usege:
@@ -21,6 +21,9 @@ https://qasim345.github.io/fa-month-picker
 
 <!-- Ex-3 -->
 <select data-toggle="month" data-lang="en"></select>
+
+<!-- Ex-3 -->
+<select data-toggle="month" data-lang="ps"></select>
 ```
 
 ## Languages:
@@ -35,6 +38,10 @@ https://qasim345.github.io/fa-month-picker
   <tr>
     <td>af</td>
     <td>Dari</td>
+  </tr>
+  <tr>
+    <td>ps</td>
+    <td>Pashto</td>
   </tr>
   <tr>
     <td>fa</td>
