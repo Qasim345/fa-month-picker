@@ -27,7 +27,7 @@ https://qasim345.github.io/fa-month-picker
 ```
 
 ## Languages:
-<table border="1" style="border-collapse: collapse" cellpadding="10">
+<table>
   <tr>
     <th colspan="2">data-lang</th>
   </tr>
